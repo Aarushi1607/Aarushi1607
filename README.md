@@ -13,31 +13,36 @@ I'm a Computer Science student interested in **Artificial Intelligence, Cloud Co
 * 🧬 Genetic Algorithms & Optimization
 
 ---
-
 ## 🛠️ Tech Stack
 
-**Languages:** Python • C++ • JavaScript
-**Frontend:** React • Next.js • HTML • CSS
-**Backend:** Node.js • Express • FastAPI
-**Databases:** MySQL • PostgreSQL
-**AI & Data:** Pandas • NumPy • Matplotlib • Seaborn • DEAP
-**Tools:** Git • GitHub • VS Code
+| Category | Technologies |
+|---|---|
+| **Languages** | Python • C++ • JavaScript |
+| **Frontend** | React • Next.js • HTML • CSS |
+| **Backend** | Node.js • Express • FastAPI |
+| **Databases** | MySQL • PostgreSQL |
+| **AI & Data** | Pandas • NumPy • Matplotlib • Seaborn • DEAP |
+| **Tools** | Git • GitHub • VS Code |
 
 ---
 
-##💻 Featured Projects
+## 💻 Featured Projects
 
-⚖️ Legal Track — Full-stack legal case management system
+### ⚖️ Legal Track
+Full-stack legal case management system
 
-🚚 Vehicle Routing Optimization — Genetic Algorithm-based optimization
+### 🚚 Vehicle Routing Optimization
+Genetic Algorithm-based optimization
 
-🛡️ SafeNetQ — IoT-based smart-grid fault detection
+### 🛡️ SafeNetQ
+IoT-based smart-grid fault detection
 
 ---
 
 ## 🌱 What I'm Exploring
 
 I'm currently focused on combining **software development, AI, data, and cloud technologies** to build useful and practical applications.
+
 AI & Generative AI  • LLMs & RAG  • AI Agents  • Cloud Computing  • Data & Machine Learning  • Optimization
 
 ---
