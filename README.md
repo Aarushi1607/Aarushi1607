@@ -7,7 +7,6 @@ I'm a Computer Science student interested in **Artificial Intelligence, Cloud Co
 ---
 
 ## 🚀 Currently Learning
-
 * 🤖 Large Language Models, RAG & AI Agents
 * ☁️ Cloud Computing
 * 📊 Data Analysis & Visualization
@@ -17,60 +16,28 @@ I'm a Computer Science student interested in **Artificial Intelligence, Cloud Co
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-Python • C++ • JavaScript
-
-**Frontend:**
-React • Next.js • HTML • CSS
-
-**Backend:**
-Node.js • Express • FastAPI
-
-**Databases:**
-MySQL • PostgreSQL
-
-**AI & Data:**
-Pandas • NumPy • Matplotlib • Seaborn • DEAP
-
-**Tools:**
-Git • GitHub • VS Code
+**Languages:** Python • C++ • JavaScript
+**Frontend:** React • Next.js • HTML • CSS
+**Backend:** Node.js • Express • FastAPI
+**Databases:** MySQL • PostgreSQL
+**AI & Data:** Pandas • NumPy • Matplotlib • Seaborn • DEAP
+**Tools:** Git • GitHub • VS Code
 
 ---
 
-## 💻 Featured Projects
+##💻 Featured Projects
 
-### ⚖️ Legal Track
-
-A full-stack legal case management system for managing clients, cases, lawyers, court hearings, and evidence.
-
-**Tech:** React • Node.js • Express • MySQL
-
-### 🚚 Vehicle Routing Optimization
-
-An optimization project using **Genetic Algorithms** to solve a Vehicle Routing Problem.
-
-**Tech:** Python • DEAP • Matplotlib
-
-### 🛡️ SafeNetQ
-
-An IoT-based smart-grid fault detection project focused on real-time monitoring and intelligent fault detection.
-
-**Tech:** React • MQTT • WebSockets • ESP32
+⚖️ Legal Track — Full-stack legal case management system
+🚚 Vehicle Routing Optimization — Genetic Algorithm-based optimization
+🤖 EASE — AI-powered student productivity platform
+🛡️ SafeNetQ — IoT-based smart-grid fault detection
 
 ---
 
 ## 🌱 What I'm Exploring
 
 I'm currently focused on combining **software development, AI, data, and cloud technologies** to build useful and practical applications.
-
-I'm particularly interested in:
-
-* AI & Generative AI
-* LLM Applications
-* RAG & AI Agents
-* Cloud Computing
-* Data & Machine Learning
-* Optimization
+AI & Generative AI • LLMs & RAG • AI Agents • Cloud Computing • Data & Machine Learning • Optimization
 
 ---
 
