@@ -28,8 +28,9 @@ I'm a Computer Science student interested in **Artificial Intelligence, Cloud Co
 ##💻 Featured Projects
 
 ⚖️ Legal Track — Full-stack legal case management system
+
 🚚 Vehicle Routing Optimization — Genetic Algorithm-based optimization
-🤖 EASE — AI-powered student productivity platform
+
 🛡️ SafeNetQ — IoT-based smart-grid fault detection
 
 ---
@@ -37,7 +38,7 @@ I'm a Computer Science student interested in **Artificial Intelligence, Cloud Co
 ## 🌱 What I'm Exploring
 
 I'm currently focused on combining **software development, AI, data, and cloud technologies** to build useful and practical applications.
-AI & Generative AI • LLMs & RAG • AI Agents • Cloud Computing • Data & Machine Learning • Optimization
+AI & Generative AI  • LLMs & RAG  • AI Agents  • Cloud Computing  • Data & Machine Learning  • Optimization
 
 ---
 
