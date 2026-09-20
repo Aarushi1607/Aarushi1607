@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Aarushi 👋
 
-<!--
-**Aarushi1607/Aarushi1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Computer Science Engineering Student** | **CGPA: 9.19/10**
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in **Artificial Intelligence, Cloud Computing, and Data**. I enjoy building practical projects, learning new technologies, and exploring how technology can be used to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+
+* 🤖 Large Language Models, RAG & AI Agents
+* ☁️ Cloud Computing
+* 📊 Data Analysis & Visualization
+* 🧬 Genetic Algorithms & Optimization
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+Python • C++ • JavaScript
+
+**Frontend:**
+React • Next.js • HTML • CSS
+
+**Backend:**
+Node.js • Express • FastAPI
+
+**Databases:**
+MySQL • PostgreSQL
+
+**AI & Data:**
+Pandas • NumPy • Matplotlib • Seaborn • DEAP
+
+**Tools:**
+Git • GitHub • VS Code
+
+---
+
+## 💻 Featured Projects
+
+### ⚖️ Legal Track
+
+A full-stack legal case management system for managing clients, cases, lawyers, court hearings, and evidence.
+
+**Tech:** React • Node.js • Express • MySQL
+
+### 🚚 Vehicle Routing Optimization
+
+An optimization project using **Genetic Algorithms** to solve a Vehicle Routing Problem.
+
+**Tech:** Python • DEAP • Matplotlib
+
+### 🛡️ SafeNetQ
+
+An IoT-based smart-grid fault detection project focused on real-time monitoring and intelligent fault detection.
+
+**Tech:** React • MQTT • WebSockets • ESP32
+
+---
+
+## 🌱 What I'm Exploring
+
+I'm currently focused on combining **software development, AI, data, and cloud technologies** to build useful and practical applications.
+
+I'm particularly interested in:
+
+* AI & Generative AI
+* LLM Applications
+* RAG & AI Agents
+* Cloud Computing
+* Data & Machine Learning
+* Optimization
+
+---
+
+## 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/aarushi-tyagi-b7821832b/)  • [Email](aarushi.ty16@gmail.com)
+
+ 
